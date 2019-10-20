@@ -1,0 +1,67 @@
+
+body{
+	background-color: #FFB48F;
+}
+
+nav{
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	min-height: 10vh;
+	background-color: black;
+}
+
+.nav-link{
+	display: flex;
+	width: 20%;
+	justify-content: space-around;
+	
+}
+.nav-link li{
+	list-style: none;
+	
+	
+}
+.nav-link a{
+		text-decoration: none;
+		color: white;
+	
+}
+.thuthuzela a{
+		list-style: none;
+		text-decoration: none;
+		color: white;
+	
+}
+h1, h2{
+	text-align: center;
+	text-decoration: underline;
+	
+}
+p {color:black;
+   text-indent: none;
+   
+	
+}
+h2{color: black;
+}
+h4{text-align: center;
+   color: black;	
+}
+.footer{
+		background-color: black;
+        text-align: center;
+		padding: 10px;
+		min-height: 10vh;
+		display: flex;
+		background-color: black;
+		align-items: center;
+		justify-content: space-around;
+}
+.footer p{
+	color: white;	
+}
+b, u, i{
+		text-align: center;
+	
+}
