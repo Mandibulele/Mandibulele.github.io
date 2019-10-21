@@ -1,4 +1,7 @@
 
+div:hover {
+  width: 300px;
+}
 body{
 	background-color: #FFB48F;
 }
